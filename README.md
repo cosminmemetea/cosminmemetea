@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align="center">
   <h1>👋 Hi there, I'm Cosmin</h1>
   <p>🚀 Passionate about building software that helps people • 📚 Constantly learning.</p>
@@ -22,13 +19,6 @@
 ### 🔥 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosminmemetea&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400" />
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cosminmemetea&theme=dracula" width="800" alt="Contribution activity graph" />
 </p>
 
 ---

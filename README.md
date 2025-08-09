@@ -2,7 +2,7 @@
   <h1>👋 Hi there, I'm Cosmin</h1>
   <p>🚀 Passionate about building software that helps people • 📚 Constantly learning.</p>
 
- ![Yoda Rank](https://yoda-level-github-badge.vercel.app/api/user-rank?username=cosminmemetea&badge=1&label=Yoda%20Rank&logo=github)
+![Yoda Rank](https://yoda-level-github-badge.vercel.app/api/user-rank?username=cosminmemetea&badge=1&label=Yoda%20Rank&logo=galaxy&t=1)
   <p>
     <a href="https://github.com/cosminmemetea">
       <img height="120" src="https://github-readme-stats.vercel.app/api?username=cosminmemetea&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Cosmin’s GitHub stats" />
